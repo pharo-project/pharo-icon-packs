@@ -5,3 +5,7 @@ A repository to keep icon packs for Pharo IDE.
 
 This is a derivate of idea + eclipse icon pack with icons replaced with fugue ones.
 Also some icons where made by David Sánchez Gregori by modifying some fugue icons.
+
+> Fugue Icons
+
+> (C) 2013 Yusuke Kamiyamane.
