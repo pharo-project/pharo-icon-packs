@@ -1,5 +1,11 @@
 # Pharo Icon Packs
 A repository to keep icon packs for Pharo IDE.
 
-## Idea11 icon pack
-This is a derivative from INtelliJ Idea11 icon pack, who are distributed under [Apache 2 licence](http://apache.org/licenses/LICENSE-2.0)
+## Fugue icon pack
+
+This is a derivate of idea + eclipse icon pack with icons replaced with fugue ones.
+Also some icons where made by David Sánchez Gregori by modifying some fugue icons.
+
+> Fugue Icons
+
+> (C) 2013 Yusuke Kamiyamane.
