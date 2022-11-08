@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   enable-background="new 0 0 152 152"
+   height="32"
+   viewBox="0 0 9.5 9.5"
+   width="32"
+   version="1.1"
+   sodipodi:docname="thumbsDown.svg"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="-90.033898"
+     inkscape:cy="256"
+     inkscape:window-width="1280"
+     inkscape:window-height="430"
+     inkscape:window-x="0"
+     inkscape:window-y="880"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <linearGradient
+     id="Icon_1_"
+     gradientUnits="userSpaceOnUse"
+     x1="32.080002"
+     x2="122.658"
+     y1="11.887"
+     y2="102.465"
+     gradientTransform="matrix(0.06399153,0,0,0.06399153,-0.110157,-0.1101545)">
+    <stop
+       offset="0"
+       stop-color="#ef5350"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#c62828"
+       id="stop4" />
+  </linearGradient>
+  <path
+     id="Icon"
+     d="m 6.653748,1.3552515 c 0,-0.262365 0.217571,-0.473537 0.473537,-0.473537 h 1.305428 c 0.262365,0 0.473537,0.211172 0.473537,0.473537 v 3.724308 c 0,0.262365 -0.211172,0.473537 -0.473537,0.473537 H 7.127285 c -0.262365,0 -0.473537,-0.211172 -0.473537,-0.473537 z M 1.099283,4.2732655 C 0.81772,4.0492955 0.772926,3.6397495 0.996897,3.3581865 1.086487,3.2430025 1.214468,3.1662125 1.355249,3.1342165 1.073686,2.9102465 1.028892,2.5007005 1.252863,2.2255365 1.342453,2.1103515 1.470434,2.0335625 1.617615,1.9951675 1.336052,1.7711965 1.291258,1.3616515 1.521625,1.0800885 1.643211,0.9265085 1.828787,0.8369205 2.02716,0.8369205 l 3.679513,0.03839 c 0.262366,0 0.473538,0.211172 0.473538,0.473537 v 3.724307 c 0,0.588723 -1.881351,1.670179 -1.977339,2.252502 -0.06399,0.371151 0.0192,1.337423 -0.236768,1.337423 -0.441542,0 -0.998268,-0.166378 -0.998268,-1.139049 0,-0.857486 0.563125,-1.970939 0.563125,-1.970939 H 1.240064 c -0.358352,5e-6 -0.646314,-0.287957 -0.646314,-0.64631 0,-0.307159 0.211172,-0.569524 0.505533,-0.633516 z"
+     fill="url(#Icon_1_)"
+     style="fill:url(#Icon_1_);stroke-width:0.0639915" />
+</svg>

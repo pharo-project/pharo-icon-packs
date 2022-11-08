@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Flat-Avatar"
+   height="32"
+   viewBox="0 0 32 32"
+   width="32"
+   version="1.1"
+   sodipodi:docname="userFemale.svg"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     id="namedview22"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="-98.711864"
+     inkscape:cy="256"
+     inkscape:window-width="1280"
+     inkscape:window-height="430"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Flat-Avatar" />
+  <g
+     id="avatar_woman_people_user_profile_2"
+     data-name="avatar woman people user profile 2"
+     transform="matrix(0.0625,0,0,0.0625,-0.00230956,0)">
+    <path
+       d="M 334.6275,353.3705 H 177.3725 A 78.6272,78.6272 0 0 0 98.745,431.9981 c 0,17.3687 3.5052,25.504 31.451,31.451 0,0 94.0823,16.5509 125.804,16.5509 31.7217,0 125.804,-16.5509 125.804,-16.5509 27.9458,-5.947 31.451,-14.0823 31.451,-31.451 a 78.6272,78.6272 0 0 0 -78.6275,-78.6276 z"
+       fill="#ffd5b3"
+       id="path2" />
+    <path
+       d="M 334.6275,353.3706 H 177.3725 A 78.8155,78.8155 0 0 0 160,355.32 V 468.4236 C 190.378,473.2981 235.8133,480 256,480 c 20.1867,0 65.622,-6.7019 96,-11.5764 V 355.32 a 78.8155,78.8155 0 0 0 -17.3725,-1.9494 z"
+       fill="#2379af"
+       id="path4" />
+    <path
+       d="M 256,400.5471 A 47.1765,47.1765 0 0 1 208.8235,353.3706 V 321.92 h 94.353 v 31.451 A 47.1765,47.1765 0 0 1 256,400.5471 Z"
+       fill="#ffd5b3"
+       id="path6" />
+    <path
+       d="m 208.8235,353.1694 c 12.92,5.9508 28.3863,9.6365 47.1765,9.6365 18.7902,0 34.2565,-3.6857 47.1765,-9.6365 v -21.8145 h -94.353 z"
+       fill="#f4bda2"
+       id="path8" />
+    <path
+       d="M 303.1412,340.3435 C 471.2088,379.1652 447.8368,32 256,32 64.4161,32 40.7646,379.1713 208.8589,340.3435 Z"
+       fill="#3d3c3b"
+       id="path10" />
+    <path
+       d="m 146.1451,159.7537 c 0,0 -1.3029,65.1657 0,86.8355 1.9693,32.7529 22.9365,102.3728 109.8549,102.3728 86.9184,0 107.8856,-69.62 109.855,-102.3728 1.3029,-21.67 0,-86.8355 0,-86.8355 0,0 -50.0119,-2.8522 -83.1219,-38.4579 a 11.9792,11.9792 0 0 0 -15.4578,-1.7061 c -48.6887,32.6813 -121.1302,40.164 -121.1302,40.164 z"
+       fill="#ffd5b3"
+       id="path12" />
+    <g
+       fill="#3d3c3b"
+       id="g18">
+      <circle
+         cx="206.998"
+         cy="193.985"
+         r="15.876"
+         transform="matrix(0.707,-0.707,0.707,0.707,-76.54,203.187)"
+         id="circle14" />
+      <circle
+         cx="305.009"
+         cy="193.985"
+         r="15.876"
+         transform="matrix(0.707,-0.707,0.707,0.707,-47.833,272.491)"
+         id="circle16" />
+    </g>
+  </g>
+</svg>
