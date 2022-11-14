@@ -40,14 +40,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="7.6690879"
-     inkscape:cx="2.8686592"
+     inkscape:cx="-16.038413"
      inkscape:cy="6.1936961"
-     inkscape:window-width="1443"
+     inkscape:window-width="1280"
      inkscape:window-height="747"
-     inkscape:window-x="48"
-     inkscape:window-y="880"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer4"><inkscape:grid
+     inkscape:current-layer="layer1"><inkscape:grid
        type="xygrid"
        id="grid440" /></sodipodi:namedview><linearGradient
      id="a"
@@ -70,7 +70,7 @@
      inkscape:label="new"
      transform="translate(0,-1)"><path
        id="path18492"
-       style="fill:#e99523;fill-opacity:1;stroke-width:0.0695202"
+       style="fill:#b68340;fill-opacity:1;stroke-width:0.0695202"
        d="M 16 10.140625 L 5.8730469 19.548828 C 5.8730469 19.562108 5.8699522 19.582745 5.8632812 19.609375 C 5.8567513 19.635795 5.8535156 19.654349 5.8535156 19.667969 L 5.8535156 29.195312 C 5.8535156 29.539298 5.9790143 29.836854 6.2304688 30.087891 C 6.4818537 30.339067 6.7789915 30.464844 7.1230469 30.464844 L 13.458984 30.464844 L 13.458984 22.84375 L 18.541016 22.84375 L 18.541016 30.466797 L 24.876953 30.466797 C 25.220939 30.466797 25.518494 30.339623 25.769531 30.087891 C 26.020985 29.837132 26.146484 29.539368 26.146484 29.195312 L 26.146484 19.667969 C 26.146484 19.615139 26.139773 19.574759 26.126953 19.548828 L 16 10.140625 z M 13.458984 15.982422 L 18.541016 15.982422 L 18.541016 20.263672 L 13.458984 20.263672 L 13.458984 15.982422 z " /><path
        style="fill:#193c53;fill-opacity:1;stroke:#0290ef;stroke-width:0.0695202;stroke-opacity:1"
        d="m 22.986328,5.060547 c -0.185341,0 -0.337804,0.058715 -0.457031,0.1777343 -0.118949,0.1191577 -0.177734,0.2719686 -0.177735,0.4570313 V 10.84375 L 27.4771,15.351562 27.433594,5.6953125 C 27.430844,5.5102008 27.373341,5.3574389 27.253906,5.2382812 27.135444,5.1192628 26.982424,5.0605469 26.796875,5.0605469 Z"
@@ -111,11 +111,7 @@
        width="32"
        height="32"
        preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAjUlEQVR4Xs3QvQ2AIBAFYGZ0AmNl
-SywsjMHGFaxdxB3c6PQUEHOPeNHG4iUEeB8/hogMfUgcrGOP4nzEmgbgIvk4ay1xtMBZbuoz+3ju
-WjVwlctiOJIgT8CtvEyV46RI+BMEoDL5CAQBuTJEJADK4b0IkQA4GQARQYAB14bhvQLYF9QA79UC
-2fkfAm+zAaOrj8Us3+aHAAAAAElFTkSuQmCC
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAjUlEQVR4Xs3QvQ2AIBAFYGZ0AmNl SywsjMHGFaxdxB3c6PQUEHOPeNHG4iUEeB8/hogMfUgcrGOP4nzEmgbgIvk4ay1xtMBZbuoz+3ju WjVwlctiOJIgT8CtvEyV46RI+BMEoDL5CAQBuTJEJADK4b0IkQA4GQARQYAB14bhvQLYF9QA79UC 2fkfAm+zAaOrj8Us3+aHAAAAAElFTkSuQmCC "
        id="image18487"
        x="0"
        y="1"

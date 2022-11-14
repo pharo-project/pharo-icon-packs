@@ -40,14 +40,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
      inkscape:zoom="17.28125"
-     inkscape:cx="6.596745"
+     inkscape:cx="-2.6329114"
      inkscape:cy="16"
-     inkscape:window-width="1443"
+     inkscape:window-width="1280"
      inkscape:window-height="747"
-     inkscape:window-x="48"
-     inkscape:window-y="880"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1"><inkscape:grid
+     inkscape:current-layer="layer3"><inkscape:grid
        type="xygrid"
        id="grid440" /></sodipodi:namedview><linearGradient
      id="a"
@@ -111,7 +111,7 @@
        x="-32"
        y="-12.874871"
        transform="scale(-1)" /><rect
-       style="fill:#e99523;fill-opacity:1;stroke:#595959;stroke-width:0;stroke-linecap:square;stroke-opacity:0.984314;stop-color:#000000"
+       style="fill:#b68340;fill-opacity:1;stroke:#595959;stroke-width:0;stroke-linecap:square;stroke-opacity:0.984314;stop-color:#000000"
        id="rect16832"
        width="9.6853523"
        height="9.6853523"
@@ -121,14 +121,14 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="old"
-     style="display:inline"
+     style="display:none"
      transform="translate(-9.5880851,-15.699172)"><image
        width="32"
        height="32"
        preserveAspectRatio="none"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAAdklEQVR4XmOI6lqKDf9Hwhjy2DTQ VxNDZGTkf1xyGAJra13+b2hwg2MQn6Cm3T1+/w9NCYFjEJ+gpv39/v9PzgqHYxCfoKZdnZ7/j0wJ gGMQH68mkOe3NTv9P9DrCccgPnqgoGgAYl8cIemLrJFgnGCLO/ppAgCKcTqliAuGWQAAAABJRU5E rkJggg== "
        id="image16203"
-       x="9.5880852"
+       x="-12.411915"
        y="15.699172"
        sodipodi:insensitive="true"
        style="display:none" /></g></svg>

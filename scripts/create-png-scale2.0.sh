@@ -174,7 +174,7 @@
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/painting.svg --export-type="png" -w 42 -h 40
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/partialCheckedBox.svg --export-type="png" -w 24 -h 24
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/pharo.svg --export-type="png" -w 64 -h 64
-/Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/pharoBig.svg --export-type="png" -w 512 -h 512
+/Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/pharoBig.svg --export-type="png" -w 256 -h 256
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/processBrowser.svg --export-type="png" -w 32 -h 32
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/protocolExtension.svg --export-type="png" -w 32 -h 32
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/protocolNone.svg --export-type="png" -w 32 -h 2
