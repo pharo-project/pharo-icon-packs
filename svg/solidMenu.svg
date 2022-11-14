@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Capa_1"
+   enable-background="new 0 0 464.205 464.205"
+   height="32"
+   viewBox="0 0 29.012812 29.012812"
+   width="32"
+   version="1.1"
+   sodipodi:docname="menu.svg"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="-90.033898"
+     inkscape:cy="256"
+     inkscape:window-width="1280"
+     inkscape:window-height="430"
+     inkscape:window-x="0"
+     inkscape:window-y="880"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Capa_1" />
+  <g
+     id="g9"
+     transform="matrix(0.06249987,0,0,0.06249987,-1.32661e-6,2.9923325e-5)">
+    <g
+       id="grip-solid-horizontal_1_">
+      <path
+         d="M 435.192,406.18 H 29.013 C 12.989,406.18 0,393.19 0,377.167 0,361.144 12.989,348.154 29.013,348.154 h 406.18 c 16.023,0 29.013,12.99 29.013,29.013 -0.001,16.023 -12.99,29.013 -29.014,29.013 z"
+         id="path2" />
+      <path
+         d="M 435.192,261.115 H 29.013 C 12.989,261.115 0,248.126 0,232.103 0,216.08 12.989,203.09 29.013,203.09 h 406.18 c 16.023,0 29.013,12.989 29.013,29.013 0,16.024 -12.99,29.012 -29.014,29.012 z"
+         id="path4" />
+      <path
+         d="M 435.192,116.051 H 29.013 C 12.989,116.051 0,103.062 0,87.038 0,71.014 12.989,58.025 29.013,58.025 h 406.18 c 16.023,0 29.013,12.989 29.013,29.013 0,16.024 -12.99,29.013 -29.014,29.013 z"
+         id="path6" />
+    </g>
+  </g>
+</svg>

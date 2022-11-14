@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.4666662mm"
+   height="8.4666662mm"
+   viewBox="0 0 8.4666662 8.4666662"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="arrowUp.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="22.12476"
+     inkscape:cx="21.378763"
+     inkscape:cy="20.655591"
+     inkscape:window-width="1577"
+     inkscape:window-height="430"
+     inkscape:window-x="0"
+     inkscape:window-y="835"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2"><inkscape:grid
+       type="xygrid"
+       id="grid290"
+       empspacing="5"
+       dotted="false"
+       originx="4.2333331"
+       originy="4.2333331" /></sodipodi:namedview><defs
+     id="defs2" /><g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="new"
+     style="display:inline"><path
+       id="path3614-0"
+       style="display:inline;fill:#4892bc;fill-opacity:1;stroke-width:0.79375;stroke-linecap:square;stroke-opacity:0.992157;stop-color:#000000"
+       d="m 4.2333332,1.8406721 4.2333333,4.7853218 -4.2333331,3e-7 -4.23333363419067,-1e-7 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-y="0.54071706"
+       inkscape:transform-center-x="-0.00050303638" /></g><g
+     inkscape:label="old"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="matrix(2.0000001,0,0,2.0000001,-6.712726,-3.7829258)"><image
+       width="4.2333331"
+       height="4.2333331"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAASUlEQVR4XmP4//8/w38cmMFj0p65 QPwfC54LkuQE4rNoEiA+B0gShBWB+B1U4g0QK4DEYZIg7AnEv4HYAyaGLAnCRsh8nC4FYQCWX3EO cbsdzQAAAABJRU5ErkJggg== "
+       id="image3556"
+       x="3.3563628"
+       y="1.8914628"
+       sodipodi:insensitive="true"
+       style="display:none;fill:#4892bc;fill-opacity:1" /></g></svg>

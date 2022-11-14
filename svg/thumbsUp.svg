@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   enable-background="new 0 0 152 152"
+   height="32"
+   viewBox="0 0 9.5 9.5"
+   width="32"
+   version="1.1"
+   sodipodi:docname="thumbsUp.svg"
+   xml:space="preserve"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs11" /><sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="15.932203"
+     inkscape:cy="16"
+     inkscape:window-width="1280"
+     inkscape:window-height="430"
+     inkscape:window-x="0"
+     inkscape:window-y="880"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" /><linearGradient
+     id="Icon_1_"
+     gradientUnits="userSpaceOnUse"
+     x1="29.4"
+     x2="119.939"
+     y1="49.568001"
+     y2="140.10699"
+     gradientTransform="matrix(0.06403658,0,0,0.06403658,-0.11065222,-0.1167795)"><stop
+       offset="0"
+       stop-color="#42a5f5"
+       id="stop2"
+       style="stop-color:#00ed3b;stop-opacity:1;" /><stop
+       offset="1"
+       stop-color="#1565c0"
+       id="stop4"
+       style="stop-color:#008d24;stop-opacity:0.90196073;" /></linearGradient><path
+     id="Icon"
+     d="m 2.8542408,8.1503425 c 0,0.26255 -0.217724,0.473871 -0.47387,0.473871 h -1.31275 c -0.26255002,0 -0.47387102,-0.211321 -0.47387102,-0.473871 v -3.720525 c 0,-0.26255 0.211321,-0.473871 0.47387102,-0.473871 h 1.306346 c 0.26255,0 0.473871,0.211321 0.473871,0.473871 v 3.720525 z m 5.558375,-2.920068 c 0.281761,0.224128 0.326587,0.633962 0.102459,0.915723 -0.08965,0.115266 -0.217725,0.19211 -0.358605,0.224128 0.281761,0.224128 0.326586,0.633962 0.102458,0.909319 -0.08965,0.115266 -0.217724,0.19211 -0.365008,0.230532 0.281761,0.224128 0.326586,0.633962 0.09605,0.915723 -0.12167,0.153688 -0.307376,0.243339 -0.505889,0.243339 l -3.682103,-0.03842 c -0.26255,0 -0.473871,-0.211321 -0.473871,-0.473871 v -3.726928 c 0,-0.589137 1.882675,-1.671355 1.97873,-2.254088 0.06404,-0.384221 -0.01921,-1.34477 0.23694,-1.34477 0.441853,0 0.998971,0.166495 0.998971,1.139851 0,0.85809 -0.563522,1.972327 -0.563522,1.972327 h 2.279702 c 0.358605,0 0.64677,0.288164 0.64677,0.646769 0.01281,0.313779 -0.198514,0.576329 -0.493082,0.640366 z"
+     fill="url(#Icon_1_)"
+     style="fill:url(#Icon_1_);stroke-width:0.0640366" /><image
+     width="4.15625"
+     height="4.15625"
+     preserveAspectRatio="none"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABRklEQVR4XpWSsUoDQRCG/1YhYqOE
+IBLN3s4FEbSztLLSxkcQawsLBfEJFCwE0Ttv9y6HhY/gO1hZ2YiNESy00TQiGv/dS0gh6mXg52bh
+/2ZnZg//RqYaSHSKqDaKoSIJdnARdpGoxfJQHGqk0oaVDvLZ6XLQ0dQITHCFy2YXRmz52871nm/R
+yAfScL4kFDTZ3jNVgIne9DO2qIjL8mGkgpzGXGZwrMYQBwuc6xYZoUQXsj7/9MrkDTZYZXU5QEve
+qQ4SOWSLNywygPoyPfmCao3r1tf+UJhjgvew+ifYVyZfLLDt5tlCziW0HChnBO/+BAvfLkG17I1D
+gSFbTevjNLeL1euI+QOyX9t03xekc9Xeb8XZ3EO75bjc6idutpjb9G5xyuSRno3Bu1k1QXCJT1Pz
+59PGJIxaoWmf4CuVIw3WcVKv9pFv0C7EfoQpbDwAAAAASUVORK5CYII=
+"
+     id="image325"
+     x="-43.942532"
+     y="90.023567"
+     style="display:none" /><image
+     width="4.15625"
+     height="4.15625"
+     preserveAspectRatio="none"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABRklEQVR4XpWSsUoDQRCG/1YhYqOE
+IBLN3s4FEbSztLLSxkcQawsLBfEJFCwE0Ttv9y6HhY/gO1hZ2YiNESy00TQiGv/dS0gh6mXg52bh
+/2ZnZg//RqYaSHSKqDaKoSIJdnARdpGoxfJQHGqk0oaVDvLZ6XLQ0dQITHCFy2YXRmz52871nm/R
+yAfScL4kFDTZ3jNVgIne9DO2qIjL8mGkgpzGXGZwrMYQBwuc6xYZoUQXsj7/9MrkDTZYZXU5QEve
+qQ4SOWSLNywygPoyPfmCao3r1tf+UJhjgvew+ifYVyZfLLDt5tlCziW0HChnBO/+BAvfLkG17I1D
+gSFbTevjNLeL1euI+QOyX9t03xekc9Xeb8XZ3EO75bjc6idutpjb9G5xyuSRno3Bu1k1QXCJT1Pz
+59PGJIxaoWmf4CuVIw3WcVKv9pFv0C7EfoQpbDwAAAAASUVORK5CYII=
+"
+     id="image345"
+     x="10.923994"
+     y="2.1083157"
+     style="display:none" /></svg>
