@@ -39,12 +39,12 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="12.593226"
-     inkscape:cx="3.0571992"
+     inkscape:cx="-8.4172237"
      inkscape:cy="17.27119"
      inkscape:window-width="1280"
      inkscape:window-height="635"
      inkscape:window-x="0"
-     inkscape:window-y="852"
+     inkscape:window-y="137"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" /><linearGradient
      id="a"
@@ -65,7 +65,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="folder"><rect
-       style="opacity:1;fill:#e99523;fill-opacity:1;stroke-width:1.50121;stroke-linecap:square;stop-color:#000000"
+       style="opacity:1;fill:#b68340;fill-opacity:1;stroke-width:1.50121;stroke-linecap:square;stop-color:#000000"
        id="rect15734"
        width="7.8271165"
        height="8.3933506"
@@ -74,7 +74,7 @@
        rx="11.857464"
        ry="0.066149205" /><path
        id="path2"
-       style="fill:#e99523;fill-opacity:1;stroke-width:0.347052"
+       style="fill:#b68340;fill-opacity:1;stroke-width:0.347052"
        d="m 3.1337564,4.3950612 c -0.5750321,0 -1.0410157,0.4659902 -1.0410157,1.0410156 V 27.481916 c 0,0.191676 0.154026,0.347656 0.3457031,0.347656 H 29.619141 c 0.191677,0 0.347656,-0.15598 0.347656,-0.347656 V 9.0547227 c 0,-0.5750254 -0.465983,-1.0410156 -1.041016,-1.0410156 H 15.463655 L 13.990999,5.0044362 C 13.748229,4.5083536 13.070607,4.3950612 12.518343,4.3950612 Z M 26,12 V 23.843938 H 6 V 12 Z"
        sodipodi:nodetypes="sssssssscsssccccc" /></g><g
      inkscape:groupmode="layer"
