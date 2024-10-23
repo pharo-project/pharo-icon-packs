@@ -194,6 +194,7 @@ icons := #(
 	(partialCheckedBox 12 12)
 	(pharo 32 32)
 	(pharoBig 256 256)
+	(pointersTo 13 13)
 	(processBrowser 16 16)
 	(protocolExtension 16 16)
 	(protocolNone 16 1)
